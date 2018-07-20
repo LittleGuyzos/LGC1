@@ -1,0 +1,9 @@
+; GPS block list
+277		spin-jump-bounce.asm
+278		spin-jump-bounce.asm
+279		spin-jump-bounce.asm
+
+
+
+
+
